@@ -10,14 +10,25 @@ Now you’re all set! Just execute the .exe or .py file.
 List of Commands:
 
 /play (YouTube search term/YouTube video URL/YouTube playlist URL)
-/skip
+
+/skip 
+
 /np or /nowplaying
+
 /p or /pause
+
 /r or /resume
+
 /bugreport (description of encountered issues) – This command sends a Discord DM to me with details about the bug so that I can fix it promptly.
+
 /kill – Disconnects the bot and clears the queue.
+
 /queue
+
 /sauerkraut (@user) – Pings the user 200 times within the spam channel (only if the super-secret options are set to true).
+
 /terminate – Stops the sauerkraut command.
+
 /clearqueue
+
 /shuffle
