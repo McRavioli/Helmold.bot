@@ -19,8 +19,6 @@ List of Commands:
 
 /r or /resume
 
-/bugreport (description of encountered issues) – This command sends a Discord DM to me with details about the bug so that I can fix it promptly.
-
 /kill – Disconnects the bot and clears the queue.
 
 /queue
