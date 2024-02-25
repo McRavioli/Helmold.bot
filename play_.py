@@ -6,7 +6,7 @@ import validators
 from yt_dlp import YoutubeDL
 from config import YOUTUBE_API_KEY, YOUTUBE_API_KEY, ydl_opts
 from bot_instance import bot
-from RanoFileToPreventCircularImport import queue, queue_count, current_song, song_count
+from RandoFileToPreventCircularImport import queue, queue_count, current_song, song_count
 from queue_ import play_next
 
 
