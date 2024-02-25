@@ -1,7 +1,7 @@
 import random
 import collections
 from bot_instance import bot
-from RanoFileToPreventCircularImport import queue, queue_count, current_song, song_count
+from RandoFileToPreventCircularImport import queue, queue_count, current_song, song_count
 from config import config, supersecret_toggle, sauerkraut_toggle
 
 
