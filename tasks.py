@@ -1,7 +1,7 @@
 import asyncio
 import random
 from discord.ext import tasks
-from RanoFileToPreventCircularImport import queue, queue_count, current_song, song_count
+from RandoFileToPreventCircularImport import queue, queue_count, current_song, song_count
 from config import messages, spamchannel, supersecret_toggle
 from bot_instance import bot
 
