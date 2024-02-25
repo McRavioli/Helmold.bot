@@ -4,7 +4,7 @@ from pytube import YouTube
 from yt_dlp import YoutubeDL
 from config import FFMPEG_OPTIONS, ydl_opts
 from bot_instance import bot
-from RanoFileToPreventCircularImport import queue, queue_count, current_song, song_count
+from RandoFileToPreventCircularImport import queue, queue_count, current_song, song_count
 
 
 ydl_opts = {
