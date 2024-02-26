@@ -1,0 +1,6 @@
+discord
+configparser
+pytube
+requests
+validators
+yt_dlp
