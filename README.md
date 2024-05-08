@@ -1,5 +1,5 @@
 # Helmold.bot 
-An open-source music bot for Discord, currently being developed by the 16-year-old software engineer, McRavioli.
+An open-source music bot for Discord, currently being developed by the 17-year-old software engineer, McRavioli.
 
 ## How to Set Up:
 
