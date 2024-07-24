@@ -4,3 +4,4 @@ pytube
 requests
 validators
 yt_dlp
+PyNaCl
