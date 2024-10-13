@@ -1,4 +1,4 @@
-As of October 13, 2024, this project is officially abandoned. All future updates and releases will be available on OpusCast.de.
+As of October 13, 2024, this project is officially abandoned. All future updates and releases will be available on [OpusCast.de](https://opuscast.de/).
 
 # Helmold.bot 
 An open-source music bot for Discord, currently being developed by the 17-year-old software engineer, McRavioli.
